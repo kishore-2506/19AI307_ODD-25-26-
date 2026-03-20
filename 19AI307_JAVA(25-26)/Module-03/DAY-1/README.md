@@ -53,8 +53,8 @@ To build an inheritance-based Java program that calculates the final price of go
 /*
 Program to implement a Inheritance and Aggregation using Java
 
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Developed by: KISHORE M
+RegisterNumber: 212223040100
 */
 ```
 
