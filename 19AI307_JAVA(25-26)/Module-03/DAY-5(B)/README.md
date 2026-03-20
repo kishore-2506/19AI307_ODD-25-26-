@@ -29,8 +29,8 @@ To write a Java program that checks whether a given number is prime by using the
 /*
 Program to implement a InnerClass using Java
 
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Developed by: KISHORE M
+RegisterNumber:  212223040100
 */
 ```
 
