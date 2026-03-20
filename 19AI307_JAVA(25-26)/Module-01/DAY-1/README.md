@@ -84,8 +84,8 @@ To write a Java program that demonstrates the use of compound assignment operato
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Developed by: KISHORE M
+RegisterNumber: 212223040100
 */
 import java.util.Scanner;
 public class main{
