@@ -32,8 +32,8 @@ To write a Java program that serializes a collection of Student objects (ArrayLi
 /*
 Program to implement a Serialization and Deserialization using Java
 
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Developed by: KISHORE M
+RegisterNumber:  212223040100
 */
 ```
 
