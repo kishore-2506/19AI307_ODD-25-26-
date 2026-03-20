@@ -27,8 +27,9 @@ To implement the Abstract Factory Design Pattern in Java by creating themed UI c
 ## PROGRAM:
  ```
 Program to implement a Abstract Factory Pattern using Java
-Developed by: Magesh  C M
-RegisterNumber: 212223220053
+
+Developed by: KISHORE M
+RegisterNumber:  212223040100
 ```
 
 ## SOURCE CODE:
